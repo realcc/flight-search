@@ -1,5 +1,7 @@
 # Flight Search
 
+**Live demo:** https://flight-search-rosy.vercel.app
+
 A React flight search application powered by the Amadeus API with advanced filtering and price analytics.
 
 ## Tech Stack
