@@ -185,7 +185,7 @@ export function SearchForm() {
               variant="outlined"
               onClick={handleSwapLocations}
               disabled={isLoading}
-              sx={{ minWidth: 40, px: 1, height: 40, alignSelf: 'center' }}
+              sx={{ minWidth: 40, px: 1, height: 40, alignSelf: 'start' }}
               aria-label="Swap origin and destination"
             >
               <SwapHoriz />
